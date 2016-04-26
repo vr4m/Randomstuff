@@ -1,0 +1,17 @@
+//by vrm
+
+byte fucks_given = 0;
+int people_trying_to_make_you_care = 2; // Ideal: At birth
+int other_peoples_issues = people_tryin_to_make_you_care * 10;
+String reason_to_give_a_fuck = "None";
+
+public static boolean is_there_a_reason_to_give_a_fuck(){
+for(int i = 0; i<100; i++) // assuming you age till 100 years old
+{people_trying_to_make_you_care *=  other_peoples_issues;
+while(fucks_given < 1){
+System.out.println("Reasons to give a fuck :" + reason_to_give_fuck);
+return false;
+}
+return false;
+}
+}
